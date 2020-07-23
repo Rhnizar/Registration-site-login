@@ -1,0 +1,47 @@
+body
+{
+	background:#ccc;
+	margin:0;
+	padding:0;
+}
+#title
+{
+	font-size:42px;
+	font-family:georgia,arial;
+	font-weight:bold;
+	color:#202020;
+	line-height:150px;
+	vertical-align:middle;
+}
+/* divs */
+
+#main
+{
+	width:700px;
+	min-height:500px;
+	margin:0 auto;
+}
+#header
+{
+
+	min-height:150px;
+	border-bottom:1px solid #202020;	
+}
+#content
+{
+	min-height:300px;
+	border:1px solid #202020;	
+}
+fieldset
+{
+	margin:30px 40px;
+	padding:20px 10px;
+}
+legend
+{
+	font-size:20px;
+	font-weight:bold;
+	color;#303030;
+}
+
+	

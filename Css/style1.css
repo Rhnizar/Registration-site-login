@@ -1,0 +1,39 @@
+ fieldset
+{
+	margin:30px 40px;
+	padding:20px 10px;
+}
+legend
+{
+	font-size:20px;
+	font-weight:bold;
+	color;#303030;
+}
+#one
+{
+	width:700px;
+	min-height:600px;
+	margin:0 auto;
+}
+body
+{
+	background:#ccc;
+	margin:0;
+	padding:0;
+}
+.msgg
+{
+	color:red;
+}
+.error
+{
+	color:red;
+}
+.test
+{
+	color:red;
+}
+.test2
+{
+	color:green;
+}
